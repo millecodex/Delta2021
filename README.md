@@ -1,7 +1,7 @@
 # Delta2021
 Permalink home for the DELTA international conference on the Teaching and Learning of Undergrad Mathematics and Statistics, held in Auckland, New Zealand. Hosted by the University of Auckland (online) November 22-25, 2021. 
 
-# KINEMATICS ADVENTURES IN DESMOS
+# Kinematics Adventures in DESMOS
 
 Authors: Jeff Nijsse (jeff.nijsse@aut.ac.nz), Yik Ching (Josh) Lee (yikching.lee@aut.ac.nz)\
 Department of Mathematical Sciences, Auckland University of Technology, Auckland, New Zealand
