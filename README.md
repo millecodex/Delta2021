@@ -3,8 +3,7 @@ Permalink home for the DELTA international conference on the Teaching and Learni
 
 Presently the conference website is hosted at https://www.herengadelta.org.
 
-# Kinematics Adventures in DESMOS
-
+# Kinematics Adventures in Desmos
 Authors: Jeff Nijsse (jeff.nijsse@aut.ac.nz), Yik Ching (Josh) Lee (yikching.lee@aut.ac.nz)\
 Department of Mathematical Sciences, Auckland University of Technology, Auckland, New Zealand
 
