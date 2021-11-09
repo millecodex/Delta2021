@@ -1,5 +1,5 @@
 # Delta2021
-Permalink home for the DELTA international conference on the Teaching and Learning of Undergrad Mathematics and Statistics, held in Auckland, New Zealand. Hosted by the University of Auckland (online) November 22-25, 2021. 
+Permalink home for our presentation at the DELTA international conference on the Teaching and Learning of Undergrad Mathematics and Statistics, held in Auckland, New Zealand. Hosted by the University of Auckland (online) November 22-25, 2021. 
 
 Presently the conference website is hosted at https://www.herengadelta.org.
 
