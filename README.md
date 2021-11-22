@@ -1,5 +1,5 @@
-# Delta2021
-Permalink home for our presentation at the DELTA international conference on the Teaching and Learning of Undergrad Mathematics and Statistics, held in Auckland, New Zealand. Hosted by the University of Auckland (online) November 22-25, 2021. 
+# Delta 2021
+Permalink home for our presentation at the Herenga DELTA international conference on the Teaching and Learning of Undergrad Mathematics and Statistics, held in Auckland, New Zealand. Hosted by the University of Auckland (online) November 22-25, 2021. 
 
 Presently the conference website is hosted at https://www.herengadelta.org.
 
@@ -21,8 +21,14 @@ Showing students a Desmos graphing calculator version with equations exposed cre
 Desmos. (2021, August 16). Teaching with Desmos. https://teacher.desmos.com/
 
 ## Links to Desmos Activities
-[1-D Kinematics: Freefall & Gravity](https://teacher.desmos.com/activitybuilder/custom/60f4a3988a4e10e4814f70e1)\
-[2-D Kinematics: Projectile motion range discovery](https://teacher.desmos.com/activitybuilder/custom/60ef7595ab34fd641bb125b3)
+**Desmos Graphing Calculator Samples**
+* [derivation of a sine wave](https://www.desmos.com/calculator/29dgq3ss6c)
+* [calculate the area under the curve](https://www.desmos.com/calculator/c4ojzppdov)
+* [2-D kinematics -- find the range](https://www.desmos.com/calculator/x5mswayqbm)
+
+**Teacher-Desmos Activities**
+* [1-D Kinematics: Freefall & Gravity](https://teacher.desmos.com/activitybuilder/custom/60f4a3988a4e10e4814f70e1)
+* [2-D Kinematics: Projectile motion range discovery](https://teacher.desmos.com/activitybuilder/custom/60ef7595ab34fd641bb125b3)
 
 ## Link to Presentation Slides
-[Delta_Desmos_2021.pdf](Delta_Desmos_2021.pdf)
+* [Delta_Desmos_2021.pdf](Delta_Desmos_2021.pdf)
