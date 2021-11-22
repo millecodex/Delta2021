@@ -31,4 +31,4 @@ Desmos. (2021, August 16). Teaching with Desmos. https://teacher.desmos.com/
 * [2-D Kinematics: Projectile motion range discovery](https://teacher.desmos.com/activitybuilder/custom/60ef7595ab34fd641bb125b3)
 
 ## Link to Presentation Slides
-* [Delta_Desmos_2021.pdf](Delta_Desmos_2021.pdf)
+* [Desmos_Delta_2021.pdf](Desmos_Delta_2021.pdf)
