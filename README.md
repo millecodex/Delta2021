@@ -23,3 +23,6 @@ Desmos. (2021, August 16). Teaching with Desmos. https://teacher.desmos.com/
 ## Links to Desmos Activities
 [1-D Kinematics: Freefall & Gravity](https://teacher.desmos.com/activitybuilder/custom/60f4a3988a4e10e4814f70e1)\
 [2-D Kinematics: Projectile motion range discovery](https://teacher.desmos.com/activitybuilder/custom/60ef7595ab34fd641bb125b3)
+
+## Link to Presentation Slides
+[Delta_Desmos_2021.pdf](Delta_Desmos_2021.pdf)
