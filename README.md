@@ -27,6 +27,7 @@ Desmos. (2021, August 16). Teaching with Desmos. https://teacher.desmos.com/
 * [derivation of a sine wave](https://www.desmos.com/calculator/29dgq3ss6c)
 * [calculate the area under the curve](https://www.desmos.com/calculator/c4ojzppdov)
 * [2-D kinematics -- find the range](https://www.desmos.com/calculator/x5mswayqbm)
+* [2-D kinematics -- with vectors](https://www.desmos.com/calculator/ldioogmlss)
 
 **Teacher-Desmos Activities**
 * [1-D Kinematics: Freefall & Gravity](https://teacher.desmos.com/activitybuilder/custom/60f4a3988a4e10e4814f70e1)
