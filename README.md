@@ -1,7 +1,7 @@
 # Delta 2021
 Permalink home for our presentation at the Herenga DELTA international conference on the Teaching and Learning of Undergrad Mathematics and Statistics, held in Auckland, New Zealand. Hosted by the University of Auckland (online) November 22-25, 2021. 
 
-Presently the conference website is hosted at https://www.herengadelta.org.
+Presently the conference website is hosted at https://www.herengadelta.org. Full schedule with abstracts can be found [here](https://www.math.canterbury.ac.nz/~m.langton/herenga_delta_schedule.html).
 
 <p align="center"><img width="400" alt="Herenga_Delta_2021_logo" src="https://user-images.githubusercontent.com/39792005/142928987-39be8fb7-847e-4fc5-9523-b39dfc77601b.PNG"></p>
 
