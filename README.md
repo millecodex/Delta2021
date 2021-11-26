@@ -21,6 +21,9 @@ Showing students a Desmos graphing calculator version with equations exposed cre
 
 ## Link to Presentation Video (YouTube→)
 
+## Link to Presentation Slides
+* [Desmos_Delta_2021.pdf](Desmos_Delta_2021.pdf)
+
 ## References
 Desmos. (2021, August 16). Teaching with Desmos. https://teacher.desmos.com/
 
@@ -34,6 +37,3 @@ Desmos. (2021, August 16). Teaching with Desmos. https://teacher.desmos.com/
 **Teacher-Desmos Activities**
 * [1-D Kinematics: Freefall & Gravity](https://teacher.desmos.com/activitybuilder/custom/60f4a3988a4e10e4814f70e1)
 * [2-D Kinematics: Projectile motion range discovery](https://teacher.desmos.com/activitybuilder/custom/60ef7595ab34fd641bb125b3)
-
-## Link to Presentation Slides
-* [Desmos_Delta_2021.pdf](Desmos_Delta_2021.pdf)
