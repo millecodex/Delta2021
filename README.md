@@ -20,6 +20,7 @@ One-dimensional kinematics exercises were developed using the teacher-Desmos fea
 Showing students a Desmos graphing calculator version with equations exposed created confusion and distracted from engaging with the concepts of kinematics. The teacher activity version puts the code (and equations) in the background leaving students free to discuss concepts at hand. Displaying and annotating the velocity vectors and range made it easy to highlight characteristics of projectile motion. Student engagement was better using an interactive web-based activity than paper-based structured learning or mixed media and student conversation revealed rich discussion. 
 
 ## Link to Presentation Video (YouTube→)
+https://youtu.be/XoxGUEJHEZE
 
 ## Link to Presentation Slides
 * [Desmos_Delta_2021.pdf](Desmos_Delta_2021.pdf)
